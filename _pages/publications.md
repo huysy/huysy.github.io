@@ -1,7 +1,7 @@
 ---
-title: "Publication"
+title: "Publications"
 layout: single
-permalink: /publication/
+permalink: /publications/
 author_profile: true
 sidebar_main: true
 ---
