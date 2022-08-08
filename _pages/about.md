@@ -3,7 +3,7 @@ title: "About"
 layout: posts
 permalink: /about/
 author_profile: true
-sidebar_main = true
+sidebar_main: true
 ---
 
 <img src="../images/about/myimges.png" alt="myimges" style="zoom:50%;" /> 
