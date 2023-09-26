@@ -2,10 +2,8 @@
 title: "Publications"
 layout: single
 permalink: /publications/
-author_profile: true
+author_profile: false
 sidebar_main: true
-toc: true
-
 ---
 
 # Pulication
