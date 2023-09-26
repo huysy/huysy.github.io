@@ -6,3 +6,5 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Category"
+    url: /categories/
