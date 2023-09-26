@@ -8,3 +8,5 @@ main:
     url: /publications/
   - title: "Category"
     url: /categories/
+  - title: "Tag"
+    url: /tags/

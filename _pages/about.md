@@ -4,6 +4,7 @@ layout: posts
 permalink: /about/
 author_profile: true
 sidebar_main: true
+toc: true
 ---
 
 <img src="../images/about/myimges.png" alt="myimges" style="zoom:50%;" /> 
